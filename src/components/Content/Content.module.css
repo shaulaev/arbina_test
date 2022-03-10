@@ -1,0 +1,19 @@
+.blockList {
+  width: 100%;
+  text-align: center;
+}
+
+.list {
+  margin: auto;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  width: 50%;
+  border: 1px solid black;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.list:hover {
+  box-shadow: 1px 1px 5px 1px rgb(71, 71, 71);
+}
